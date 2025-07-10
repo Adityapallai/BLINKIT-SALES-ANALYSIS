@@ -1,5 +1,5 @@
 ## Project Overview:
-This Python data analysis project examines Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key business insights and optimization opportunities. The analysis focuses on various KPIs including total sales, average sales, number of items sold, and customer ratings.
+This Python data analysis project examines Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key business insights and optimization opportunities. The analysis focuses on various KPIs including total sales, average sales, number of items sold, and Avg customer ratings.
 
 ## Project Structure
 blinkit-analysis/
