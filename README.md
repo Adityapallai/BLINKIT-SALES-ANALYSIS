@@ -25,7 +25,7 @@ blinkit-analysis/
 - *Fat Content by Outlet for Total Sales*: Non-Stacked column charts of sales by outlet type and fat content
 - *Total Sales by Outlet Establishment*: Line Chart of sales by outlet Establishment Year
 - *Sales by Outlet Size*: Pie charts of sales by outlet Size
-- *Sales by Outlet Location Horizontal Bar Chart  of sales by outlet Location
+- *Sales by Outlet Location*: Horizontal Bar Chart  of sales by outlet Location
 
 ## Business Insights
 The analysis helps Blinkit:
