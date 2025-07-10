@@ -20,11 +20,12 @@ blinkit-analysis/
 - Average customer ratings
 
 ### 2. Visualizations
-- *Fat Content Analysis*: Donut charts showing sales distribution by fat content
-- *Item Type Performance*: Bar charts comparing sales across product categories
-- *Outlet Comparisons*: Stacked column charts of sales by outlet type and fat content
-- *Geographic Distribution*: Funnel maps of sales by outlet location
-- *Temporal Trends*: Line charts of sales by outlet establishment year
+- *Sales by Fat Content Analysis*: Pie charts showing sales distribution by fat content
+- *Total Sales By Item Types*: Bar charts comparing sales across product categories
+- *Fat Content by Outlet for Total Sales*: Non-Stacked column charts of sales by outlet type and fat content
+- *Total Sales by Outlet Establishment*: Line Chart of sales by outlet Establishment Year
+- *Sales by Outlet Size*: Pie charts of sales by outlet Size
+- *Sales by Outlet Location Horizontal Bar Chart  of sales by outlet Location
 
 ## Business Insights
 The analysis helps Blinkit:
